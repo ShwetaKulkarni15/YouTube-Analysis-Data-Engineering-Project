@@ -29,4 +29,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 <img src="architecture.jpeg">
 
 ## YouTube Analysis Dashboard
+Link: https://us-east-2.quicksight.aws.amazon.com/sn/accounts/637423363422/dashboards/0c39f3b5-544c-4ca4-85f2-a15a3ec7551a?directory_alias=shwetavinodkulkarni
+
 <img src="YouTube Analysis Dashboard.png">
