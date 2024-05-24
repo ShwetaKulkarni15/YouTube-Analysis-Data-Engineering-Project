@@ -29,4 +29,4 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 <img src="architecture.jpeg">
 
 ## YouTube Analysis Dashboard
-<img src="YouTube Analysis Dashboard">
+<img src="YouTube Analysis Dashboard.png">
